@@ -1,0 +1,1 @@
+-- This file is no longer used. QBCore handles job data.
